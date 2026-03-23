@@ -3,7 +3,7 @@
 A curated list of papers on workflow optimization for LLM agents.
 
 This repository accompanies the survey paper **From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents**.  
-Survey paper: **will release soon**
+Survey paper: [From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents](https://doi.org/10.13140/RG.2.2.23159.48806)
 
 This list focuses on papers whose main contribution is workflow optimization. To keep the repository concise and method-centric, it does not aim to cover general survey papers, benchmarks, datasets, or framework/tooling papers.
 
@@ -21,6 +21,7 @@ The list is organized by **when workflow structure is determined**: static optim
   - [Construct-then-execute: pre-execution workflow generation](#construct-then-execute-pre-execution-workflow-generation)
   - [In-execution editing: interleaving execution with structural change](#in-execution-editing-interleaving-execution-with-structural-change)
 - [Contributing](#contributing)
+- [Citation](#citation)
 - [Star History](#star-history)
 
 ## Static Optimization
@@ -121,6 +122,21 @@ Please edit `README.md` directly and follow these rules:
 4. Use `-` in the `Code` column if no official repository can be verified.
 5. Keep the table format as `Title | Year | Paper | Code`.
 6. If a paper could fit multiple subsections, place it in the subsection that best matches its main contribution.
+
+## Citation
+
+If you find this repository or the accompanying survey helpful, please cite:
+
+```bibtex
+@article{yue2026workflowsurvey,
+  title        = {From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents},
+  author       = {Yue, Ling and Bhandari, Kushal Raj and Ko, Ching-Yun and Patel, Dhaval and Lin, Shuxin and Zhou, Nianjun and Gao, Jianxi and Chen, Pin-Yu and Pan, Shaowu},
+  year         = {2026},
+  note         = {Preprint},
+  doi          = {10.13140/RG.2.2.23159.48806},
+  url          = {https://doi.org/10.13140/RG.2.2.23159.48806}
+}
+```
 
 ## Star History
 
