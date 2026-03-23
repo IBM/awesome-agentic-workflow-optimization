@@ -2,8 +2,7 @@
 
 A curated list of papers on workflow optimization for LLM agents.
 
-This repository accompanies the survey paper **From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents**.  
-Survey paper: [From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents](https://doi.org/10.13140/RG.2.2.23159.48806)
+This repository accompanies the survey paper: **From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents**  ([https://doi.org/10.13140/RG.2.2.23159.48806](https://doi.org/10.13140/RG.2.2.23159.48806)).
 
 ![Overview](figs/overview.png)
 
