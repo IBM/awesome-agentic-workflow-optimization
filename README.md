@@ -128,13 +128,11 @@ Please edit `README.md` directly and follow these rules:
 If you find this repository or the accompanying survey helpful, please cite:
 
 ```bibtex
-@article{yue2026workflowsurvey,
-  title        = {From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents},
-  author       = {Yue, Ling and Bhandari, Kushal Raj and Ko, Ching-Yun and Patel, Dhaval and Lin, Shuxin and Zhou, Nianjun and Gao, Jianxi and Chen, Pin-Yu and Pan, Shaowu},
-  year         = {2026},
-  note         = {Preprint},
-  doi          = {10.13140/RG.2.2.23159.48806},
-  url          = {https://doi.org/10.13140/RG.2.2.23159.48806}
+@article{yue2026survey,
+  title={From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents},
+  author={Yue, Ling and Bhandari, Kushal Raj and Ko, Ching-Yun and Patel, Dhaval and Lin, Shuxin and Zhou, Nianjun and Gao, Jianxi and Chen, Pin-Yu and Pan, Shaowu},
+  journal={arXiv preprint arXiv:2603.22386},
+  year={2026}
 }
 ```
 
