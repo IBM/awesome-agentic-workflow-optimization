@@ -1,4 +1,5 @@
 # Awesome Workflow Optimization for LLM Agents
+<a href="https://arxiv.org/abs/2603.22386"><img src="https://img.shields.io/badge/arXiv-2603.22386-b31b1b.svg" alt="Paper"></a>
 
 A curated list of papers on workflow optimization for LLM agents.
 
