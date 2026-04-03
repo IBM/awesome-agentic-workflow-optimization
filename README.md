@@ -34,7 +34,7 @@ The list is organized by **when workflow structure is determined**: static optim
 | --- | --- | --- |
 | AFlow: Automating Agentic Workflow Generation | 2025 | [Link](https://openreview.net/forum?id=z5uVAKwmjf) |
 | Automated Design of Agentic Systems | 2025 | [Link](https://openreview.net/forum?id=t9U3LW7JVX) |
-| A²Flow: Automating Agentic Workflow Generation via Self-Adaptive Abstraction Operators | 2025 | [Link](https://arxiv.org/abs/2511.20693) |
+| A²Flow: Automating Agentic Workflow Generation via Self-Adaptive Abstraction Operators | 2026 | [Link](https://arxiv.org/abs/2511.20693) |
 | SEW: Self-Evolving Agentic Workflows for Automated Code Generation | 2025 | [Link](https://arxiv.org/abs/2505.18646) |
 | Evolutionary Generation of Multi-Agent Systems | 2026 | [Link](https://arxiv.org/abs/2602.06511) |
 
@@ -42,18 +42,18 @@ The list is organized by **when workflow structure is determined**: static optim
 
 | Title | Year | Paper |
 | --- | --- | --- |
-| DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines | 2023 | [Link](https://arxiv.org/abs/2310.03714) |
-| Large Language Models as Optimizers | 2023 | [Link](https://arxiv.org/abs/2309.03409) |
-| EvoPrompt: Connecting LLMs with Evolutionary Algorithms Yields Powerful Prompt Optimizers | 2023 | [Link](https://arxiv.org/abs/2309.08532) |
+| DSPy: Compiling Declarative Language Model Calls into State-of-the-Art Pipelines | 2024 | [Link](https://arxiv.org/abs/2310.03714) |
+| Large Language Models as Optimizers | 2024 | [Link](https://arxiv.org/abs/2309.03409) |
+| Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers | 2024 | [Link](https://arxiv.org/abs/2309.08532) |
 | CAPO: Cost-Aware Prompt Optimization | 2025 | [Link](https://arxiv.org/abs/2504.16005) |
-| GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning | 2025 | [Link](https://arxiv.org/abs/2507.19457) |
+| GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning | 2026 | [Link](https://arxiv.org/abs/2507.19457) |
 | Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System | 2025 | [Link](https://aclanthology.org/2025.findings-acl.601/) |
 
 ### Joint optimization of structure and local configuration
 
 | Title | Year | Paper |
 | --- | --- | --- |
-| Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies | 2025 | [Link](https://arxiv.org/abs/2502.02533) |
+| Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies | 2026 | [Link](https://arxiv.org/abs/2502.02533) |
 | Learning Multi-Agent Communication from Graph Modeling Perspective | 2024 | [Link](https://arxiv.org/abs/2405.08550) |
 | Maestro: Joint Graph & Config Optimization for Reliable AI Agents | 2025 | [Link](https://arxiv.org/abs/2509.04642) |
 
@@ -62,7 +62,7 @@ The list is organized by **when workflow structure is determined**: static optim
 | Title | Year | Paper |
 | --- | --- | --- |
 | MermaidFlow: Redefining Agentic Workflow Generation via Safety-Constrained Evolutionary Programming | 2025 | [Link](https://arxiv.org/abs/2505.22967) |
-| VFlow: Discovering Optimal Agentic Workflows for Verilog Generation | 2025 | [Link](https://arxiv.org/abs/2504.03723) |
+| VFlow: Discovering Optimal Agentic Workflows for Verilog Generation | 2026 | [Link](https://arxiv.org/abs/2504.03723) |
 
 ## Dynamic Optimization and Runtime Adaptation
 
@@ -74,7 +74,7 @@ The list is organized by **when workflow structure is determined**: static optim
 | Adaptive Graph Pruning for Multi-Agent Communication | 2025 | [Link](https://arxiv.org/abs/2506.02951) |
 | DAGP: Difficulty-Aware Graph Pruning for LLM-Based Multi-Agent Systems | 2025 | [Link](https://doi.org/10.1145/3746252.3760954) |
 | AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration | 2025 | [Link](https://arxiv.org/abs/2503.18891) |
-| A Dynamic LLM-Powered Agent Network for Task-Oriented Agent Collaboration | 2023 | [Link](https://arxiv.org/abs/2310.02170) |
+| A Dynamic LLM-Powered Agent Network for Task-Oriented Agent Collaboration | 2024 | [Link](https://arxiv.org/abs/2310.02170) |
 | MasRouter: Learning to Route LLMs for Multi-Agent Systems | 2025 | [Link](https://aclanthology.org/2025.acl-long.757/) |
 | SkillOrchestra: Learning to Route Agents via Skill Transfer | 2026 | [Link](https://arxiv.org/abs/2602.19672) |
 
@@ -82,8 +82,8 @@ The list is organized by **when workflow structure is determined**: static optim
 
 | Title | Year | Paper |
 | --- | --- | --- |
-| Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows | 2025 | [Link](https://arxiv.org/abs/2509.11079) |
-| Assemble Your Crew: Automatic Multi-Agent Communication Topology Design via Autoregressive Graph Generation | 2025 | [Link](https://arxiv.org/abs/2507.18224) |
+| Difficulty-Aware Agentic Orchestration for Query-Specific Multi-Agent Workflows | 2026 | [Link](https://arxiv.org/abs/2509.11079) |
+| Assemble Your Crew: Automatic Multi-Agent Communication Topology Design via Autoregressive Graph Generation | 2026 | [Link](https://arxiv.org/abs/2507.18224) |
 | G-Designer: Architecting Multi-Agent Communication Topologies via Graph Neural Networks | 2025 | [Link](https://openreview.net/forum?id=LpE54NUnmO) |
 | Dynamic Generation of Multi-LLM Agents Communication Topologies with Graph Diffusion Models | 2025 | [Link](https://arxiv.org/abs/2510.07799) |
 | Multi-Agent Architecture Search via Agentic Supernet | 2025 | [Link](https://openreview.net/forum?id=imcyVlzpXh) |
@@ -91,7 +91,7 @@ The list is organized by **when workflow structure is determined**: static optim
 | FlowReasoner: Reinforcing Query-Level Meta-Agents | 2025 | [Link](https://arxiv.org/abs/2504.15257) |
 | Workflow-R1: Group Sub-sequence Policy Optimization for Multi-Turn Workflow Construction | 2026 | [Link](https://arxiv.org/abs/2602.01202) |
 | AutoFlow: Automated Workflow Generation for Large Language Model Agents | 2024 | [Link](https://arxiv.org/abs/2407.12821) |
-| WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models | 2024 | [Link](https://arxiv.org/abs/2411.05451) |
+| WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models | 2025 | [Link](https://arxiv.org/abs/2411.05451) |
 | RobustFlow: Towards Robust Agentic Workflow Generation | 2025 | [Link](https://arxiv.org/abs/2509.21834) |
 | ComfyUI-R1: Exploring Reasoning Models for Workflow Generation | 2025 | [Link](https://arxiv.org/abs/2506.09790) |
 | AutoAgents: A Framework for Automatic Agent Generation | 2024 | [Link](https://www.ijcai.org/proceedings/2024/3) |
@@ -114,15 +114,17 @@ The list is organized by **when workflow structure is determined**: static optim
 
 ## Contributing
 
-Contributions are welcome.
+Contributions are welcome! To suggest a new paper, please [open an issue](https://github.com/IBM/awesome-agentic-workflow-optimization/issues/new) with the following information:
 
-Please edit `README.md` directly and follow these rules:
+1. Paper title, year, and a link to the official paper page.
+2. The subsection you think it belongs to.
+3. A brief reason why its main contribution is workflow optimization.
 
-1. Only include papers whose main contribution is workflow optimization.
-2. Put each paper in exactly one subsection.
-3. Prefer official paper pages.
-4. Keep the table format as `Title | Year | Paper`.
-5. If a paper could fit multiple subsections, place it in the subsection that best matches its main contribution.
+We will review and update the list accordingly. Please note:
+
+- Only papers whose main contribution is workflow optimization will be included.
+- Each paper is placed in exactly one subsection that best matches its main contribution.
+- We prefer official paper pages (e.g., conference proceedings, arXiv).
 
 ## Citation
 
