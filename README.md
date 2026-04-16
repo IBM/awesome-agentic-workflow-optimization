@@ -105,6 +105,7 @@ The list is organized by **when workflow structure is determined**: static optim
 | Aime: Towards Fully-Autonomous Multi-Agent Framework | 2025 | [Link](https://arxiv.org/abs/2507.11988) |
 | AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration | 2026 | [Link](https://arxiv.org/abs/2602.03786) |
 | MetaGen: Self-Evolving Roles and Topologies for Multi-Agent LLM Reasoning | 2026 | [Link](https://arxiv.org/abs/2601.19290) |
+| CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery | 2026 | [Link](https://arxiv.org/abs/2604.01658) |
 | ProAgent: From Robotic Process Automation to Agentic Process Automation | 2023 | [Link](https://arxiv.org/abs/2311.10751) |
 | Flow: Modularized Agentic Workflow Automation | 2025 | [Link](https://openreview.net/forum?id=sLKDbuyq99) |
 | EvoFlow: Evolving Diverse Agentic Workflows on the Fly | 2025 | [Link](https://arxiv.org/abs/2502.07373) |
